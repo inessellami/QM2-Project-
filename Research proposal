@@ -10,17 +10,22 @@ Suggested data set:
 
 What are the key factors that influence the number of abortions per capita in each US state?
   Factors that we'd like to investigate: 
-    - religion 
+    - extent of religious beliefs 
     - political beliefs
-    - education levels 
-    - age 
+    - education levels
     - income 
    
 Research proposal includes: 
 -Context and motivation: controversy, hot topic today 
 -suggest available datasets and or sources of data: pew foundation
 -sketch methods for analysing data 
--outline what a succesful project will tell you about your domain of interest: hypothesis= the factors studied influence negatively abortion 
+-outline what a succesful project will tell you about your domain of interest: hypothesis= the factors studied influence negatively abortion
+
+
+
+Basic method: Put all datasets in forms of number per capita by state, so it is possible to make linear regressions of all of the key factors.
+We will then make a graphic such as a heat map (made possible by the fact our data is collected for each state) to illustrate findings of any observed correlation.
+
 
     
 
