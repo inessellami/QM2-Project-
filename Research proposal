@@ -46,3 +46,23 @@ Hypothesis: such factors correlate with number of abortions.  hypothesis can't b
   
   We hypothesise that many if not all of these factors will indeed negatively correlate with the number of abortions based on the results of "Public Opinion 
   on Abortion" (Pew Foundation, 2019). 
+  
+  
+  
+  
+  With the current controversy surrounding abortion rights in the United States, we have decided to look at this topic from a socio-economic and demographic perspective. To this end, we seek to draw an inter-state comparison by analysing different factors that may influence access to abortion.
+A recent study have showed that we need a more “nuanced understanding of abortion attitudes” as they are influenced by many factors such as education, religious affiliation, living in a rural setting, and political affiliation (Jozkowski & al, 2018). We have outlined these quantifiable factors as follows: 
+-Education level 
+-Religiosity 
+-Political affiliation
+-Income (considering the fact that healthcare is a relatively expensive service in the US-
+Therefore, our research question is as follows: “What are the key factors that influence the number of abortions per capita in each US state?”. 
+
+METHODS
+First, we will put all datasets in forms of numbers per 1000, so that they can be easily compared to Abortion rates. 
+All the datasets for different factors will be processed in order to make them easily readable and interpretable. We are planning on creating interactive maps, bar plots and box plots in order to see the contrasts between the 50 states, concerning our different factors. 
+Then, we will confront each factor with abortion rate in order to make a linear regression and find a correlation. We will also make a chi-square test to see if the variables are dependent or not. Ultimately, we will make a graphic such as a heat map (made by the fact our data is collected for each state) to illustrate findings of any observed correlation. 
+
+EXPECTATIONS
+If our project is successful, we will understand how to use a socio-economic and demographic perspective to explain a more personal and individual choice, such as abortion. We hypothesise that many, if not all these factors will indeed negatively impact the number of abortions per capita in each US state. 
+
