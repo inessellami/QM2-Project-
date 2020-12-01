@@ -6,3 +6,16 @@ Columns of data other than the values for total population in 2014-18 were delet
 The percentages were then changed to numerical values and the dataset was added to other data in form of the 2014 abortion.csv.
 Spread of data was illustrated with a Histogram and Boxplot (see next slide), there were no significantly outlying points.
 
+
+Party summary of cleaning data:
+
+Raw data presented in the partydata.csv is in continuous variable format for "Repubican", "Democrat", and "Neutral" for each state, where higher value is assciated 
+with higher level participation rate. To simplify the data for regression modeling, I decided to transform the continuous data to categorical data format: meaning
+each state will be assigned to either of the 3 categories - "Republican", "Democrat", or "Neutral". 
+  For example: 
+    Alabama - Republican(87), Neutral(50), Democrat(29) 
+    California - Republican (19), Neutral(20), Democrat(40)
+  Then Alabama will be assigned to "Republican" category; California will be assigned to "Democrat" category
+  
+The benefit of turning continuous data into categorical data is we can 
+  
