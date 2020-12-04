@@ -64,3 +64,12 @@ looking @ 2014 bc only data we have for religiosity is 2014 so this way can do d
 
 How to plot an interactive map: https://towardsdatascience.com/how-to-create-an-interactive-geographic-map-using-python-and-bokeh-12981ca0b567
 
+
+--------------------------------------------------
+4/12:
+
+ -Data cleaning: we have to use pyhton, so everyone has to clean his own data and send the final dataset to nelson so that he can merge it
+ -Demographics: we will have to take into account gender and age in the analysis
+ -We will have to make an individual analysis for each state, but the question is how we are going to make the analysis? (we can't make a regression because x is missing). But it is important to do individual state analysis because it is the only way to make sure that we include demographics and legislation properly
+-We will also maybe have to add legislation as a quantifiable variable (need to do some research)
+
