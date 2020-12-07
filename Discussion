@@ -73,3 +73,11 @@ How to plot an interactive map: https://towardsdatascience.com/how-to-create-an-
  -We will have to make an individual analysis for each state, but the question is how we are going to make the analysis? (we can't make a regression because x is missing). But it is important to do individual state analysis because it is the only way to make sure that we include demographics and legislation properly
 -We will also maybe have to add legislation as a quantifiable variable (need to do some research)
 
+
+-----------------------------
+7/12 
+-We will not be doing state by state comparison because of data availability 
+-We will add legislation as quantifiable variable 
+-make sure to do data cleaning on python 
+-Challenge: how ot make the heat map interactive ??????
+
