@@ -1,0 +1,6 @@
+In the code part we have three branches : 
+  1. Code: where you will find all the code we created on google colab 
+  2. raw data: these are the raw csv files that we used on google colab 
+  3. fina data: these are the cleaned data csv file that we got after python cleaning on google colab 
+  
+In the Wiki section, you will find different sidebars. This is mostly text and notes from our different meetings. 
